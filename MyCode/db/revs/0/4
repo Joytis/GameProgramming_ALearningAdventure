@@ -1,0 +1,29 @@
+id: 0-4.0.r4/0
+type: dir
+count: 0
+cpath: /TestAppl
+copyroot: 0 /
+
+PLAIN
+K 4
+Heyo
+V 16
+dir 0-1.0.r3/624
+K 8
+TestAppl
+V 14
+dir 0-4.0.r4/0
+END
+ENDREP
+id: 0.0.r4/147
+type: dir
+pred: 0.0.r3/806
+count: 4
+text: 4 66 68 0 5d96400c1d6901b3452837171714f84d
+cpath: /
+copyroot: 0 /
+
+_0.0.t3-3 add-dir false false /TestAppl
+
+
+147 271
